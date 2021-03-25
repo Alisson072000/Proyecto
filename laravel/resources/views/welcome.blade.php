@@ -68,7 +68,7 @@
     </tr>
     <tr class="border-collapse border border-green-200 ">
       <td>Intro to JavaScript</td>
-      <td>Chris</td>
+      <td>Alisson</td>
       <td>Proceso</td>
     </tr>
   </tbody>
