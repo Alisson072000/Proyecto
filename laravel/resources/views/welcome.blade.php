@@ -75,8 +75,8 @@
         <!--======= footer =========-->
         <footer class="p-0 xl:mx-10 lg:mx-5 md:mx-0">
             <ul class="p-0 py-2 border border-t-2 border-green-200 border-b-0 border-l-0 border-r-0 grid grid-cols-1 md:grid-cols-2 gap-x-0 gap-y-0 md:gap-y-0">
-                <li class="xl:py-0 lg:py-0 md:py-5 sm:py-5 py-2 text-center"><a href="#">contactos</a></li>
-                <li class="xl:py-0 lg:py-0 md:py-5 sm:py-5 py-2 text-center"><a href="#">redes sociales</a></li>
+                <li class="xl:py-0 lg:py-0 md:py-5 sm:py-5 py-2 text-center"><a href="#">Contactos</a></li>
+                <li class="xl:py-0 lg:py-0 md:py-5 sm:py-5 py-2 text-center"><a href="#">Redes sociales</a></li>
             </ul>
         </footer>
 
