@@ -34,8 +34,9 @@
         <header class="bg-white shadow">
             <div class="py-6 px-4 sm:px-6 lg:items-center ">
             <h1  class="text-3xl font-bold text-green-300">Cursos Recibidos</h1>
-            
             </div>
+             <!--======= Fin header=========-->
+
         </header>     
                 <div class="w-full md:w-auto mb-6 md:mb-0 text-center md:text-right">
                     <ul>
