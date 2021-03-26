@@ -52,7 +52,10 @@
                 </div>
             </div>
         </header>
-        
+        <header>
+            <p class="container xl:pl-20 lg:text-left text-center text-5xl font-bold px-8 mt-10">Cursos Recibidos</p>
+        </header>
+
         <div class="mb-80 container py-10 2xl:p-30 xl:p-20">
             <table class="border-collapse border border-green-200">
                 <thead class="text-left border-collapse border border-green-200 bg-green-200">
