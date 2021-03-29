@@ -32,7 +32,7 @@
         <!--======= Fin de Navegacion =========-->
         <!--======= Inicio header=========-->
         <header class="bg-white shadow">
-            <div class="py-6 px-4 sm:px-6 lg:items-center ">
+            <div class="py-6 px-4 sm:px-6 lg:items-center">
             <h1  class="text-3xl font-bold text-green-300">Cursos Recibidos</h1>
             </div>
              <!--======= Fin header=========-->
@@ -87,9 +87,19 @@
             </table>
         </div>
 
+        <div class="p-0 xl:mx-10 lg:mx-5 md:mx-0">
+            <div class="text-right text-green-300 border border-t-2 border-green-200 border-b-0 border-l-0 border-r-0 py-10">
+                <h3>CONTÁCTANOS</h3>
+                <p>Av. Colón E4-175 entre Amazonas y Foch, Ed.</p>
+                <p>Torres de la Colón, Mezzanine Of. 12 Quito - Ecuador</p>
+                <p>fundacion@esquel.org.ec</p>
+                <p>+(5932) 252-0001</p>
+            </div>
+        </div>
+
         <!--======= footer =========-->
         <footer class="p-0 xl:mx-10 lg:mx-5 md:mx-0">
-            <ul class="p-0 py-2 border border-t-2 border-green-200 border-b-0 border-l-0 border-r-0 grid grid-cols-1 md:grid-cols-2 gap-x-0 gap-y-0 md:gap-y-0">
+            <ul class="text-green-300 p-0 py-2 border border-t-2 border-green-200 border-b-0 border-l-0 border-r-0 grid grid-cols-1 md:grid-cols-2 gap-x-0 gap-y-0 md:gap-y-0">
                 <li class="xl:py-0 lg:py-0 md:py-5 sm:py-5 py-2 text-center"><a href="#">Contactos</a></li>
                 <li class="xl:py-0 lg:py-0 md:py-5 sm:py-5 py-2 text-center"><a href="#">Redes sociales</a></li>
             </ul>
